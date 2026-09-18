@@ -1,0 +1,10 @@
+{
+  "reponame": "altocumulus",
+  "productname": "Altocumulus",
+  "productdomain": "altocumulus.dev",
+  "subdomain": "orundemo",
+  "orunWorkspace": "ws_79BDXAZQ",
+  "githuborg": "sourceplane",
+  "epicSlug": "infra-baselining",
+  "domain": false
+}
